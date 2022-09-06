@@ -1,0 +1,29 @@
+{
+	"Username":"",
+	"Senha":"",
+	"Ficha": {
+		"Nome":"",
+		"Idade": 0,
+		"Inventário": [],
+		"História": "",
+		"Status": {
+			"Força": 0,
+			"Destreza": 0,
+			"Vigor": 0,
+			"Intelecto": 0,
+			"Carisma": 0,
+			"Sorte": 0,
+			"PontosDeVida": 20,
+			"PntosDeMana": 0
+
+		},
+		"Habilidades": {
+			"Mágicas":{
+
+			},
+			"Não Mágicas":{
+
+			}
+		}
+	}
+}
