@@ -1,8 +1,8 @@
 {
-	"Username":"",
-	"Senha":"",
+	"Username":"NPC",
+	"Senha":"NPC",
 	"Ficha": {
-		"Nome":"",
+		"Nome":"NPC",
 		"Idade": 0,
 		"Inventário": [],
 		"História": "",
